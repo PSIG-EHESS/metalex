@@ -1,4 +1,4 @@
-# metalex
+# Metalex
 Métalexicographie numérique des langues historiques du droit en Europe. Projet pilote à partir de l’exemple de Dei delitti e delle pene de Cesare Beccaria.
 
 Pour travailler sur le projet, il est nécessaire tout d'abord de travailler avec les textes à disposition pour qu'il soit exploitable.
