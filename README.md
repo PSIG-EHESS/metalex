@@ -11,7 +11,7 @@ Les scripts sont écrits dans le langage Python et utilise un module qui permet 
 Pour exécuter ces scripts, il faudra taper : 
 
 ```bash
-python3 nom_du_script.py arg1, arg2, 
+python3 nom_du_script.py arg1, arg2
 ```
 
 Le nombre d'arguments dépendra du contenu du script. Dans le cas du script '4_correction.py' du dossier 'Nettoyage_texte', le dernier argument sera une variable, présent dans le fichier python importé dans le script et qui correspondra au nom du dictionnaire à aller chercher.
