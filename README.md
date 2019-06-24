@@ -16,4 +16,4 @@ python3 nom_du_script.py arg1, arg2
 
 Après, le nombre d'arguments dépendra du contenu du script. 
 
-Dans le cas du script '[4_correction_orthographique.py] (https://github.com/PSIG-EHESS/metalex/blob/master/Nettoyage%20de%20texte/4_correction_orthographique.py)' du dossier 'Nettoyage_texte', le dernier argument sera une variable, présent dans le fichier python importé dans le script et qui correspondra au nom du dictionnaire à aller chercher.
+Dans le cas du script '[4_correction_orthographique.py](https://github.com/PSIG-EHESS/metalex/blob/master/Nettoyage%20de%20texte/4_correction_orthographique.py)' du dossier 'Nettoyage_texte', le dernier argument sera une variable, présent dans le fichier python importé dans le script et qui correspondra au nom du dictionnaire à aller chercher.
