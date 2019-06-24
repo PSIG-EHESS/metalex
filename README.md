@@ -4,7 +4,7 @@ Métalexicographie numérique des langues historiques du droit en Europe. Projet
 Pour travailler sur le projet, il est nécessaire tout d'abord de travailler avec les textes à disposition pour qu'ils soient exploitables.
 On fournira ainsi ici les scripts nécessaires à aider cette exploitation et plus tard réaliser une analyse :
 
-*Le dossier "OCR" comprend deux scripts pour permettre la transcription des textes.
+* Le dossier "OCR" comprend deux scripts pour permettre la transcription des textes.
 * Le dossier "Nettoyage_texte" comprend quatre scripts pour permettre de mettre en forme et de corriger, autant que permis, les textes.
 * Le dossier "Annotations" comprend un script qui permet de rajouter des balises dans une version XML-TEI TXM de ces transcriptions pour une analyse ultérieure sur TXM.
 
