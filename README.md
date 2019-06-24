@@ -8,8 +8,7 @@ Le dossier "Nettoyage_texte" comprend quatre scripts pour permettre de mettre en
 Le dossier "Annotations" permet de rajouter des balises dans une version XML-TEI TXM de ces transcriptions pour une analyse ultérieur sur TXM.
 
 Les scripts sont écrits dans le langage Python et utilise un module qui permet d'appeler les arguments nécessaires à chaque script dans l'interpréteur de commance pour obtenir les résultats que l'on veut.
-Pour exécuter ces scripts, il faudra taper :
-
+Pour exécuter ces scripts, il faudra taper : 
 python3 nom_du_script.py arg1, arg2, 
 
 Le nombre d'arguments dépendra du contenu du script. Dans le cas du script '4_correction.py' du dossier 'Nettoyage_texte', le dernier argument sera une variable, présent dans le fichier python importé dans le script et qui correspondra au nom du dictionnaire à aller chercher.
