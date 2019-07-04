@@ -1,0 +1,20 @@
+#!/bin/bash
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap7-13-14/NormBeccaria_fr1_1_1766.txt ../../Finalisation/Fr/Chap7-13-14/Beccaria_fr1_1_1766.txt beccaria_fr1_1_1766
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap7-13-14/NormBeccaria_fr2_1_1773.txt ../../Finalisation/Fr/Chap7-13-14/Beccaria_fr2_1_1773.txt beccaria_fr2_1_1773
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap7-13-14/NormBeccaria_fr2_2_1782.txt ../../Finalisation/Fr/Chap7-13-14/Beccaria_fr2_2_1782.txt beccaria_fr2_2_1782
+#python3 4_correction_orthographique.py ../../Normalisation/Fr/NormBeccaria-fr-1784-transcr.txt ../../Finalisation/Fr/Beccaria_fr2_3_1784.txt beccaria_fr2_3_1784
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap7-13-14/NormBeccaria_fr2_4_1794.txt ../../Finalisation/Fr/Chap7-13-14/Beccaria_fr2_4_1794.txt beccaria_fr2_4_1794
+#python3 4_correction_orthographique.py ../../Normalisation/Fr/NormBeccaria-fr-1797-Chaillou-transcr.txt ../../Finalisation/Fr/Beccaria_fr2_5_1797Ch.txt beccaria_fr2_5_1797Ch
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap7-13-14/NormBeccaria_fr1_2_1797Mo.txt ../../Finalisation/Fr/Chap7-13-14/beccaria_fr1_2_1797Mo.txt beccaria_fr1_2_1797Mo
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Intro-Chap1-2-3/NormBeccaria_fr1_1_1766.txt ../../Finalisation/Fr/Intro-Chap1-2-3/Beccaria_fr1_1_1766.txt beccaria_fr1_1_1766
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Intro-Chap1-2-3/NormBeccaria_fr2_1_1773.txt ../../Finalisation/Fr/Intro-Chap1-2-3/Beccaria_fr2_1_1773.txt beccaria_fr2_1_1773
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Intro-Chap1-2-3/NormBeccaria_fr2_2_1782.txt ../../Finalisation/Fr/Intro-Chap1-2-3/Beccaria_fr2_2_1782.txt beccaria_fr2_2_1782
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Intro-Chap1-2-3/NormBeccaria_fr2_4_1794.txt ../../Finalisation/Fr/Intro-Chap1-2-3/Beccaria_fr2_4_1794.txt beccaria_fr2_4_1794
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Intro-Chap1-2-3/NormBeccaria_fr1_2_1797Mo.txt ../../Finalisation/Fr/Intro-Chap1-2-3/Beccaria_fr1_2_1797Mo.txt beccaria_fr1_2_1797Mo
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap30-31-36/NormBeccaria-fr-1766-transcr.txt ../../Finalisation/Fr/Chap30-31-36/Beccaria_fr1_1_1766.txt beccaria_fr1_1_1766
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap30-31-36/NormBeccaria-fr-1773-transcr.txt ../../Finalisation/Fr/Chap30-31-36/Beccaria_fr2_1_1773.txt beccaria_fr2_1_1773
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap30-31-36/NormBeccaria-fr-1782-transcr.txt ../../Finalisation/Fr/Chap30-31-36/Beccaria_fr2_2_1782.txt beccaria_fr2_2_1782
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap30-31-36/NormBeccaria-fr-1784-transcr.txt ../../Finalisation/Fr/Chap30-31-36/Beccaria_fr2_3_1784.txt beccaria_fr2_3_1784
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap30-31-36/NormBeccaria-fr-1794-transcr.txt ../../Finalisation/Fr/Chap30-31-36/Beccaria_fr2_4_1794.txt beccaria_fr2_4_1794
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap30-31-36/NormBeccaria-fr-1797-Chaillou-transcr.txt ../../Finalisation/Fr/Chap30-31-36/Beccaria_fr2_5_1797Ch.txt beccaria_fr2_5_1797Ch
+python3 4_correction_orthographique.py ../../Normalisation/Fr/Chap30-31-36/NormBeccaria-fr-1797-Morellet-transcr.txt ../../Finalisation/Fr/Chap30-31-36/Beccaria_fr1_2_1797Mo.txt beccaria_fr1_2_1797Mo
