@@ -9,3 +9,4 @@ python3 script_xml_normalisation.py ../../../TXM-0.8.0/corpora/EN303136/txm/EN30
 python3 script_xml_normalisation.py ../../../TXM-0.8.0/corpora/IT303136/txm/IT303136/ ../../Travail\ TXM/Corpus/Norm/It/CHAP30/ remplacement_it
 #Appel du script, du dossier d'entrée (qui part ici de la production XML-TEI TXM du logiciel TXM) puis du dossier de sortie
 #Enfin, on appelle comme pour les autres scripts avec un dictionnaire, la variable avec le contenu recherché pour chaque langue
+#Mettre en commentaire l'un des deux groupes en fonction du script utilisé
