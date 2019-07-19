@@ -12,7 +12,7 @@ Les scripts sont écrits dans le langage Python (avec la version Python 3.6.7 ic
 Pour exécuter ces scripts, il faudra inscrire dans le terminal, depuis le dossier où se trouve le script : 
 
 ```bash
-python3 nom_du_script.py arg1, arg2
+python3 nom_du_script.py dossier_d_entrée dossier_de_sortie
 ```
 
 Le nombre d'arguments dépendra après du contenu du script. Dans deux des dossiers ("Nettoyage_texte" et "Annotations") ont été rajoutés les scripts shell utilisés pour permettre d'exécuter les scripts correctement et selon nos besoins. Chacun de ces scripts shell se basent sur un travail avec un chapitre choisi (Chap30/31/36) pour illustrer les manipulations réalisées.
