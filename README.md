@@ -19,4 +19,4 @@ Le nombre d'arguments dépendra après du contenu du script. Dans deux des dossi
 
 
 Pour exécuter certains des scripts, il faut au préalable installer sur son environnement de travail quelques modules indispensables : 
-* Pour faire fonctionner les scripts d'OCR, il est essentiel d'installer Tesseract. Il suffit pour cela de suivre les instructions présentes sur le Github du module : [Tesseract] (https://github.com/tesseract-ocr/tesseract "Repository Tesseract")
+* Pour faire fonctionner les scripts d'OCR, il est essentiel d'installer Tesseract. Il suffit pour cela de suivre les instructions présentes sur le Github du module : [Tesseract](https://github.com/tesseract-ocr/tesseract "Repository Tesseract")
