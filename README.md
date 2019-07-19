@@ -16,3 +16,7 @@ python3 nom_du_script.py dossier_d'entrée dossier_de_sortie
 ```
 
 Le nombre d'arguments dépendra après du contenu du script. Dans deux des dossiers ("Nettoyage_texte" et "Annotations") ont été rajoutés les scripts shell utilisés pour permettre d'exécuter les scripts correctement et selon nos besoins. Chacun de ces scripts shell se basent sur un travail avec un chapitre choisi (Chap30/31/36) pour illustrer les manipulations réalisées.
+
+
+Pour exécuter certains des scripts, il faut au préalable installer sur son environnement de travail quelques modules indispensables : 
+* Pour faire fonctionner les scripts d'OCR, il est essentiel d'installer Tesseract. Il suffit pour cela de suivre les instructions présentes sur le Github du module : [Tesseract] (https://github.com/tesseract-ocr/tesseract "Repository Tesseract")
