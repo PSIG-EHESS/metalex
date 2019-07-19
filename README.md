@@ -8,7 +8,7 @@ On fournira ainsi ici les scripts nécessaires à aider cette exploitation et pl
 * Le dossier "Nettoyage_texte" comprend quatre scripts pour permettre de mettre en forme et de corriger, autant que permis, les textes.
 * Le dossier "Annotations" comprend un script qui permet de rajouter des balises dans une version XML-TEI TXM de ces transcriptions pour une analyse ultérieure sur TXM.
 
-Les scripts sont écrits dans le langage Python (Python3 ici) et utilise un module qui permet d'appeler les arguments nécessaires à chaque script dans l'interpréteur de commande (sys) pour obtenir les résultats que l'on veut.
+Les scripts sont écrits dans le langage Python (avec la version Python 3.6.7 ici) et utilise un module qui permet d'appeler les arguments nécessaires à chaque script dans l'interpréteur de commande (sys) pour obtenir les résultats que l'on veut.
 Pour exécuter ces scripts, il faudra inscrire dans le terminal, depuis le dossier où se trouve le script : 
 
 ```bash
