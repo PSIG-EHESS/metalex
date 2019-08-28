@@ -1,12 +1,11 @@
-# input1 : dossier, input2 : language model (deu_frak, deu, fra, eng, ita, ...)
+# input1 : dossier, input2 : language model (frk, deu, fra, eng, ita, ...)
 
 import sys, os
 from PIL import Image
 import pytesseract
 
-# ex:  python3 handleocr.py all/Beccaria_DE_1766_HAB_Kap36/out deu_frak
+# ex:  python3 ocr_tiff.py OCR/Deu/all2-1(1767)/Introduction/ frk
 if len(sys.argv) != 3:
-	#print("python3 handleocr.py <dossier> deu_frak|deu")
 	print("La requête n'est pas correcte. Veuillez vérifier les arguments.")
 	sys.exit()
 	
